@@ -1,0 +1,128 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        }
+    },
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tablet-screen-button",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "info": "Apps published"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-star",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "info": "Stars on GitHub"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "12",
+                            "info": "Countries visited"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "07",
+                            "info": "Open-source projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "info": "Coffees consumed"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Quick **Facts**"
+                }
+            },
+            "items": [
+                {
+                    "dates": {
+                        "start": "11/05/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Working on a new **Blockchain project**!",
+                            "text": "Currently developing a Solana Arbitrage bot using Jupyter API and Raydium."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/12/2024",
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_more",
+                            "href": "https://code-genie-jimmy.vercel.app/"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Updated my **personal website**!",
+                            "text": "Updated my personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

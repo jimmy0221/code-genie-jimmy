@@ -1,0 +1,170 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm <a href='https://www.linkedin.com/in/jimkyle-basco0221/' target='_blank'>**Jim Kyle Basco!**</a>"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {}
+            },
+            "items": [
+                {
+                    "value": "Angeles, Philippines",
+                    "links": [
+                        {
+                            "href": "http://maps.google.com/maps/@42.987222,-85.623889,17z"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "jimkylebasco0221@gmail.com",
+                    "links": [
+                        {
+                            "href": "mailto:jimkylebasco0221@gmail.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "@raidel-dev",
+                    "links": [
+                        {
+                            "href": "https://github.com/raidel-dev"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "**A little bit** about me..."
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>A highly skilled and versatile engineer with comprehensive expertise in frontend, backend, and blockchain development. Proficient in crafting innovative and scalable solutions across the complete technology stack. Demonstrated success in designing and implementing decentralized applications (dApps) and optimizing smart contracts. Experienced in leveraging cutting-edge technologies such as <b><i>JavaScript</i></b>, <b><i>TypeScript</i></b>, <b><i>Python</i></b>, <b><i>Solidity</i></b>, <b><i>Rust</i></b> and <b><i>Golang</i></b>. Possesses strong problem-solving skills and a collaborative approach, ensuring efficient and impactful development in dynamic and fast-paced environments.</p>"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {
+                    "title": "Personal **interests**"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing guitar",
+                            "info": "Exploring different genres and improving my skills."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI image generation",
+                            "info": "Learning to use AI tools to enhance my image."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "info": "Practicing digital art and exploring new styles."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cryptocurrency Trading",
+                            "info": "Learning the basics of crypto trading."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

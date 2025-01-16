@@ -1,0 +1,105 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/indra-logo.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "05/25/2018",
+                        "end": "10/03/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Frontend Developer**",
+                            "info": "<a href='https://www.indracompany.com/en/philippines' target='_blank'>Indra</a>",
+                            "text": "<ul><li>Developed and maintained 5+ responsive user interfaces using React and Next.js, improving user retention by 15% through improved UI/UX.</li><li>Integrated RESTful and GraphQL APIs, reducing frontend loading times by 40% and improving data retrieval speed by 30%.</li><li>Collaborated with the design team to implement UI/UX improvements that led to a 20% increase in user engagement.</li><li>Played a key role in ensuring cross-browser compatibility, achieving 100% compatibility across 5 major browsers.</li></ul>",
+                            "tags": [
+                                "JavaScript",
+                                "React",
+                                "Next.js",
+                                "RESTful APIs",
+                                "GraphQL"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/yuga-logo.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "10/23/2021",
+                        "end": "03/08/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Blockchain Engineer**",
+                            "info": "<a href='https://yuga.com/' target='_blank'>Yuga Labs</a>",
+                            "text": "<ul><li>Designed and deployed 10+ smart contracts on the Ethereum network, implementing DeFi protocols that processed over $5M+ in transactions within the first quarter of launch.</li><li>Integrated blockchain functionalities with traditional backend services, utilizing Node.js and GraphQL to create secure, scalable applications with a 99.9% uptime.</li><li>Conducted smart contract performance optimizations that reduced transaction times by 50% and minimized gas fees by 25%, leading to a 20% increase in transaction volume.</li><li>Worked closely with front-end teams to enable smooth wallet integrations (MetaMask, Web3), supporting 500+ daily active users in a secure environment.</li></ul>",
+                            "tags": [
+                                "Ethereum",
+                                "Binance Smart Chain",
+                                "Solana",
+                                "Solidity",
+                                "Rust",
+                                "Vyper",
+                                "Anchor"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/ygg-logo.svg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": "#111",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "03/27/2023",
+                        "end": "11/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Senior Full Stack Engineer**",
+                            "info": "<a href='https://www.yieldguild.io/' target='_blank'>Yield Guild Games</a>",
+                            "text": "<ul><li>Led the development of 5+ decentralized applications (dApps), leveraging blockchain technology and smart contracts in the Ethereum and Rust ecosystems, resulting in a 30% increase in user adoption within 6 months.</li><li>Architected and deployed end-to-end solutions (frontend UI to backend APIs and blockchain interactions) for 3 major client projects, improving overall system performance by 40% and reducing backend API response times by 25%.</li><li>Optimized smart contracts, reducing gas costs by up to 35%, ensuring efficient transactions for over 1,000+ daily users.</li><li>Collaborated with cross-functional teams (frontend, backend, security) to ensure scalable, secure, and high-performance blockchain solutions, with zero downtime during product launches.</li><li>Mentored 4 junior developers, providing code reviews and fostering a culture of collaboration and best practices.</li></ul>",
+                            "tags": [
+                                "dApp",
+                                "Blockchain",
+                                "Frontend",
+                                "Backend",
+                                "Agile Management"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

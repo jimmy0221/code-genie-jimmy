@@ -1,0 +1,40 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/university-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2013",
+                        "end": "05/10/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor** of Computer Science",
+                            "info": "<a href='https://www.auf.edu.ph/home/index.php' target='_blank'>Angeles University Foundation</a>",
+                            "text": "<p>• Programming Fundamentals: Courses introducing languages such as C, C++, Java, and Python, essential for both front-end and back-end development.</p><p>• Web Development: Subjects covering HTML, CSS, JavaScript, and frameworks like React or Angular, focusing on creating responsive user interfaces.</p><p>• Database Management Systems: Instruction on designing, implementing, and managing databases using SQL and NoSQL technologies, crucial for back-end data handling.</p><p>• Software Engineering: Emphasis on software development methodologies, version control systems, and collaborative tools, ensuring adherence to best practices in full-stack development.</p><p>• Computer Networks: Understanding network protocols and communication, vital for developing applications that operate over the internet.</p><p>• Hands-On Projects: Developing a comprehensive online shopping website, incorporating product listings, user authentication, shopping cart functionality, and payment processing.</p><p>• Thesis: <i>`Development of an Online Shopping Platform for Handmade Products: A Case Study in Hawler`</i></p>",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

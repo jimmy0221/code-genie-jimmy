@@ -1,0 +1,95 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+63 (975) 477-4105",
+                    "links": [
+                        {"href": "tel:+639754774105"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"}
+                    }
+                },
+
+                {
+                    "value": "jimkylebasco0221@gmail.com",
+                    "links": [
+                        {"href": "mailto:jimkylebasco0221@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"}
+                    }
+                },
+
+                {
+                    "value": "@jimkylebasco",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/jimkyle-basco0221/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Linkedin"}
+                    }
+                },
+
+                {
+                    "value": "Jim Kyle Basco",
+                    "links": [
+                        {"href": "https://discord.gg/NNtNvgN7"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-discord",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Discord"}
+                    }
+                }
+            ]
+        }
+    ]
+}
