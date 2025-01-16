@@ -1,5 +1,5 @@
 
-# [<img src="readme-assets/logo.png"> React Portfolio](https://code-genie-alpha.vercel.app/) by Jim Kyle Basco
+# [<img src="readme-assets/logo.png"> React Portfolio](https://code-genie-jimmy.vercel.app/) by Jim Kyle Basco
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -259,7 +259,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[Jim Kyle Basco](https://code-genie-alpha.vercel.app/)**.
+This template was created by and is maintained by **[Jim Kyle Basco](https://code-genie-jimmy.vercel.app/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
