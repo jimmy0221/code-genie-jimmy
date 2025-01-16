@@ -15,7 +15,7 @@ Key features:
 
 ## [Live Preview](https://code-genie-jimmy.vercel.app/)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://code-genie-jimmy.vercel.app/)**.
+Check out the live version of the template deployed **[here on GitHub Pages](https://github.com/jimmy0221/code-genie-jimmy)**.
 
 ### 1. Base layout
 The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
@@ -34,7 +34,7 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 
 1. Clone the repo:
 ```
-git clone https://github.com/jimmy0221/jim-portfolio
+git clone https://github.com/jimmy0221/code-genie-jimmy.git
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
@@ -259,7 +259,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[Jim Kyle Basco](https://code-genie-jimmy.vercel.app/)**.
+This template was created by and is maintained by **[Jim Kyle Basco](https://github.com/jimmy0221/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
